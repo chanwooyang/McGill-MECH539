@@ -1,6 +1,6 @@
 # McGill-MECH539
 
-This is a project repository for "MECH 539: Computational Aerodynamics" taugh by Professor Sivakumaran Nadarajah at McGill University (Winter 2013).
+This is a project repository for "MECH 539: Computational Aerodynamics" taught by Professor Sivakumaran Nadarajah at McGill University (Winter 2013).
 
 From [McGill University Mechanical Engineering: MECH 539](https://www.mcgill.ca/study/2015-2016/courses/mech-539), this course teaches followings:
 
@@ -14,7 +14,7 @@ From [McGill University Mechanical Engineering: MECH 539](https://www.mcgill.ca/
 - Quasi 1D solutions. 
 - Nozzle and confined aerofoil applications.
 
-For details of the course, please refer to [Course Syllabus (Winter 2013)]()
+For details of the course, please refer to [Course Syllabus (Winter 2013)](https://github.com/chanwooyang/McGill-MECH539/blob/master/SyllabusMECH539.pdf)
 
 During this course, 6 projects were completed:
 
