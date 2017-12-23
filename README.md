@@ -23,6 +23,6 @@ During this course, 6 projects were completed:
 3. Murman-Cole Scheme for the Transonic Small Disturbance Equation
 4. Investigating Aerodynamic Performance of Airfoils using a Coupled Potential Equation and Integral Boundary Layer Method
 5. Solve the Quasi One-Dimensional Euler Equations for a Supersonic Nozzle 
-6. Solve the Quasi One-Dimensional Euler Equations for Various Artificial Dissipation Schemes
+6. (Final Project) Solve the Quasi One-Dimensional Euler Equations for Various Artificial Dissipation Schemes
 
 Each project was created and committed to separate subfolders within this repository. All codes were written in MATLAB script (I am sorry..) and test reports were created in pdf format.
